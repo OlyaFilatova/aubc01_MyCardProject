@@ -15,4 +15,5 @@ Lesson 3: Practice Set: Building layouts
 
 
 For this task I choosed to start writing an alarm app.
+
 For now it's only an XML code.
